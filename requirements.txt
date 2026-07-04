@@ -1,0 +1,6 @@
+PyQt6>=6.6.0
+pyqtgraph>=0.13.3
+requests>=2.31.0
+PySocks>=1.7.1
+autoupgrader>=0.1.2
+GitPython>=3.1.0
